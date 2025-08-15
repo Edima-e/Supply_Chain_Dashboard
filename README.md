@@ -1,7 +1,3 @@
-Here’s an enhanced version of your **README.md** with additional detail and a metrics snapshot section that you can update once you calculate your numbers:
-
----
-
 # 📦 Supply Chain Dashboard
 
 ## 📌 Overview
